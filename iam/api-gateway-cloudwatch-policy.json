@@ -1,0 +1,12 @@
+{
+    "version":"2012-10-17",
+    "statement":[
+        {
+            "effect":"Allow",
+            "Principal":{
+                "Service":["apigateway.amazonaws.com"]
+            },
+            "Action":"sts:AssumeRole"
+        }
+    ]
+}

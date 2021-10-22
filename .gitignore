@@ -1,0 +1,6 @@
+.terraform
+outputs
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+read_old.md
